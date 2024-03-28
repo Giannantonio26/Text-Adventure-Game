@@ -43,6 +43,7 @@ Al fine di migliorare la fluidità del gioco, i comandi inseriti dagli utenti ve
 
 ---
 
+<!--
 ## Diagramma delle classi
 ```mermaid
 classDiagram
@@ -679,6 +680,7 @@ ThreadFinale <.. JDialogPunteggio : create
 JFrameFinale <.. ThreadFinale : create
 ThreadFinale *-- JDialogPunteggio
 ```
+-->
 ### Analisi di piccole porzioni di UML.
 
 ![DiagrammaClassi1](/imgDocumentazione/DiagrammaClassi1.PNG)
